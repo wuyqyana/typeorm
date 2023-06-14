@@ -1,0 +1,21 @@
+{
+   "compilerOptions": {
+      "module": "commonjs",
+      "moduleResolution": "node",
+      "target": "ES2018",
+      "esModuleInterop": true,
+      "noImplicitAny": false,
+      "emitDecoratorMetadata": true,
+      "experimentalDecorators": true,
+      "removeComments": false,
+      "preserveConstEnums": true,
+      "sourceMap": false,
+      "allowJs": true,
+      "allowSyntheticDefaultImports": true,
+      "rootDir": "./src",
+      "outDir": "./dist"
+   },
+   "exclude": [
+      "node_modules"
+   ]
+}
